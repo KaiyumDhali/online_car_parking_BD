@@ -23,7 +23,7 @@ include('inc/dbcon.php');
 </head>
 <body>
 <section class="HomeKisii">
-<img src="" alt="" style="width:954px;height:470px">
+<img src="img/gov.jpg" alt="" style="width:954px;height:470px">
 
 
 <div class="cont">

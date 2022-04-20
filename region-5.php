@@ -14,7 +14,7 @@
 <p class="status">Red -> Reserved , Yellow -> Available</p>
 <!-- Table goes in the document BODY -->
 <table class="gridtable">
-<?php $street ="NATIONAL BANK/LEVEL FIVE STREET"; ?>
+<?php $street ="mirpur 10"; ?>
 <tr>
 	<td <?php 
 	$sql="SELECT * FROM zones WHERE street='$street' and plot='PL 001'";
@@ -161,7 +161,7 @@
 </section>   
 </section>               
 <section class="kisii-bottom">
-<p>Safe Parking, whenever you are in Kisii</p>
+<p>Safe Parking</p>
 </section>
 </body>
 </html>

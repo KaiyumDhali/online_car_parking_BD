@@ -7,7 +7,7 @@ $id=$_POST['submit_multi'];
 <?php 
 include('inc/dbcon.php');
 
-$sql = "DELETE FROM users WHERE id=11";
+$sql = "DELETE FROM kaium WHERE id=0";
 
 if (mysqli_query($connection, $sql)) {
   

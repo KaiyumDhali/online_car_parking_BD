@@ -15,7 +15,7 @@
 </section>
 </section>
 <section class="kisii-bottom">
-<p>Safe Parking, whenever you are in Kisii</p>
+<p>Safe Parking, whenever you are needed</p>
 </section>
 </body>
 </html>

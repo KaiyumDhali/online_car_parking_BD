@@ -8,6 +8,7 @@ if( isset( $_SESSION['email'] ) )
 	 exit;
   }
    ?>
+   
 <?php include 'admin-main.php';?>
 <?php 
 include('inc/dbcon.php');
@@ -23,7 +24,7 @@ include('inc/dbcon.php');
 </head>
 <body>
 <section class="HomeKisii">
-<img src="" alt="" style="width:954px;height:470px">
+<img src="img/gov.jpg" alt="" style="width:954px;height:470px">
 
 
 <div class="cont">
@@ -44,7 +45,7 @@ include('inc/dbcon.php');
                             <tbody>
                               	<?php 
 								$no=0;
-							$query=mysqli_query($connection,"select * from transactions")or die(mysqli_error());
+							$query=mysqli_query($connection,"select * from zones")or die(mysqli_error());
 							while($row=mysqli_fetch_array($query)){
 							$no=$no+1;
 							?>

@@ -31,6 +31,7 @@
         <li class="dropdown">
           <a href="">Parking Zones</a>
           <ul class="large">
+             <li><a href="dhanmondi.php">dhanmondi </a></li>
             <li><a href="region-1.php">Dhanmondi 32 ZOON </a></li>
             <li><a href="region-2.php">Daffodil ZOON</a></li>
             <li><a href="region-3.php">Dhanmondi 27 ZOON</a></li>
@@ -47,7 +48,9 @@
    if( isset( $_SESSION['email'] ) )
    {
    echo  "<li><a href=\"your-car.php\">Reserve</a></li>";
+   
    }
+
    else
    {
     echo "<li><a href=\"admin/index.php\">Admin Panel</a></li>";

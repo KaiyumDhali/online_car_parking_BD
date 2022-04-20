@@ -12,7 +12,7 @@
 <section class="container">
 <header>
 <section class="logo">
-<p><center>KISII TOWN  ONLINE CAR PARKING RESERVATION SYSTEM</center></p>
+<p><center>Online First Car Paking System</center></p>
 </section>
     <nav>
       <ul class="nav">
@@ -20,12 +20,15 @@
         <li class="dropdown">
           <a>Inventories</a>
           <ul>
-            <li><a href="sold.php">Sold</a></li>
+            <li><a href="sold.php">Researve Details</a></li>
             
 			</ul>
         </li>
         <li class="dropdown">
           <a href="zone.php">Parking Zones</a>
+          <ul>
+           <a href="slotmaking.php">Slot making</a>
+           </ul>
         </li>
 		 
 		 <li><a href="clients.php">Clients</a></li> 

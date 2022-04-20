@@ -31,9 +31,9 @@
 	<fieldset class="boxBody">
 	 <label>Specify Date and time to book</label>
 	 <label>From:</label>
-	<input type="text" name="from"value="02.11.2014 11:05AM">
+	<input type="text" name="from"value="09.15.2021 11:05AM">
 	<label>To:</label>
-	<input type="text" name="to" value="02.11.2014 12:05AM">
+	<input type="text" name="to" value="09.15.2021 12:05AM">
 	  <label>Amount to be charged: Kash. 60/-</label>
 	</fieldset>
 	<footer>

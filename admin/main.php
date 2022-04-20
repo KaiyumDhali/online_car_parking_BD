@@ -12,7 +12,7 @@
 <section class="container">
 <header>
 <section class="logo">
-<p><center>KISII TOWN  ONLINE CAR PARKING RESERVATION SYSTEM</center></p>
+<p><center>Online First Car Paking System</center></p>
 </section>
     <nav>
       <ul class="nav">
@@ -31,12 +31,12 @@
         <li class="dropdown">
           <a>Parking Zones</a>
           <ul class="large">
-            <li><a href="../region-1.php">OGEMBO/ZONIC STREER - Cars Only</a></li>
-            <li><a href="../region-2.php">AGAKHAN STREET - Cars Only</a></li>
-            <li><a href="../region-3.php">DARAJA MBILI/UHURU PLAZA STREET -  Cars and Lorries</a></li>
-            <li><a href="../region-4.php">UCHUMI/RAM STREET - Lorries Only</a></li>
-			<li><a href="../region-5.php">MATATU STAGE/ BUS STAGE - PSV Only</a></li>
-			<li><a href="../region-6.php">NATIONAL BANK/LEVEL FIVE  - PSV Only</a></li>
+            <li><a href="../region-1.php">Dhanmondi 32 ZOON </a></li>
+            <li><a href="../region-2.php">Daffodil ZOON</a></li>
+            <li><a href="../region-3.php">Dhanmondi 27 ZOON</a></li>
+            <li><a href="../region-4.php">Songsad ZOON</a></li>
+			<li><a href="../region-5.php">mirpur 10</a></li>
+			<li><a href="../region-6.php">agargon</a></li>
           </ul>
         </li>
 		 

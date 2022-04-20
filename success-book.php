@@ -12,6 +12,8 @@
 <section class="success">
 <br/>
  <p>Parking Lot Reserved.<br/><br/>Thank You!</p>
+ <br/><br/>
+  <p><a href="index.php" class="Link">My slot</a></p>
 </section>
 </section>
 <section class="kisii-bottom">

@@ -33,12 +33,12 @@
 	<hr />
 	   <label>Recommended Region For You - as per your vehicles body size</label>
 	   <select name="street" class="cjComboBox" >
-			<option value="OGEMBO STREET">Dhanmondi 32 ZOON</option>
-			<option value="AGAKHAN STREET">Daffodil ZOON</option>
-			<option value="NATIONAL BANK/LEVEL FIVE STREET">Dhanmondi 27 ZOON</option>
-			<option value="DARAJA MBILI/UHURU PLAZA">Songsad ZOON</option>
-			<option value="UCHUMI/RAM STREET"> mirpur 10</option>
-			<option value="MAIN BUS/MATATU STAGE"> agargon</option>
+			<option value="Dhanmondi 32 ZOON">Dhanmondi 32 ZOON</option>
+			<option value="Daffodil ZOON">Daffodil ZOON</option>
+			<option value="Dhanmondi 27 ZOON">Dhanmondi 27 ZOON</option>
+			<option value="Songsad ZOON">Songsad ZOON</option>
+			<option value="mirpur 10"> mirpur 10</option>
+			<option value="agargon"> agargon</option>
 		</select>
 		
 		<select name="plot" class="cjComboBox" >

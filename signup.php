@@ -16,7 +16,7 @@
       <input type="text" id="FullName" name="email"placeholder="Your Email" maxlength="31" required />
 	 <input type="password" id="FullName" name="password" placeholder="Your Password" maxlength="10" required />
 	 
-	 <input type="text" name="phone" placeholder="Phone" id="FullName"required pattern="(\+?\d[- .]*){7,13}" title="phone number" maxlength="10"/> 
+	 <input type="text" name="phone" placeholder="Phone" id="FullName"required pattern="(\+?\d[- .]*){7,13}" title="phone number" maxlength="11"/> 
 	 <input type="submit" id="LogIn" value="Sign Up">
 	 </form>
 	 <p><a href="index.php" class="Link">Or Log In</a></p>

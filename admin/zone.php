@@ -23,7 +23,7 @@ include('inc/dbcon.php');
 </head>
 <body>
 <section class="HomeKisii">
-<img src="" alt="" style="width:954px;height:470px">
+<img src="img/gov.jpg" alt="" style="width:954px;height:470px">
 
 
 <div class="cont">
@@ -45,19 +45,51 @@ include('inc/dbcon.php');
                             <tbody>
                             <tr>
 										 <td>1</td>
-                                         <td>OGEMBO STREET</td>
+                                         <td>Dhanmondi 32 ZOON</td>
                                          <td>18</td>
-                                         <td>James B. K</td>
+                                         <td>Kaium</td>
                                          <td>0708222536</td>
 										
                             </tr>
 						 <tr>
 										 <td>2</td>
-                                         <td>ZONIC STREET</td>
+                                         <td>Daffodil ZOON</td>
                                          <td>18</td>
-                                         <td>Jane B. K</td>
+                                         <td>Akin</td>
                                          <td>0708222536</td>
 										
+                            </tr>
+                            <tr>
+                                         <td>3</td>
+                                         <td>Dhanmondi 27 ZOON</td>
+                                         <td>18</td>
+                                         <td>Bappi</td>
+                                         <td>0708222536</td>
+                                        
+                            </tr>
+                            <tr>
+                                         <td>4</td>
+                                         <td>Songsad ZOON</td>
+                                         <td>18</td>
+                                         <td>Tarek</td>
+                                         <td>0708222536</td>
+                                        
+                            </tr>
+                            <tr>
+                                         <td>5</td>
+                                         <td>mirpur 10</td>
+                                         <td>18</td>
+                                         <td>Opu</td>
+                                         <td>0708222536</td>
+                                        
+                            </tr>
+                            <tr>
+                                         <td>6</td>
+                                         <td>agargon</td>
+                                         <td>18</td>
+                                         <td>Emon</td>
+                                         <td>0708222536</td>
+                                        
                             </tr>
                             </tbody>
                         </table>
